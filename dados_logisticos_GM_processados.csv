@@ -1,0 +1,51 @@
+ID_Rota,Tipo_Fluxo,Fornecedor_Actual,Custo_Atual_RS,Cotacao_Fornecedor_A_RS,Cotacao_Fornecedor_B_RS,Consumo_Diesel_Litros,Dias_Para_Expirar_Contrato,Melhor_Cotacao_RS,Saving_RS,Status_Contrato
+BR-202,Containerization,Swift Cargo,21157,20314,20304,3082,37,20304,853,Regular
+BR-535,Outbound,Swift Cargo,15173,14196,15133,2700,44,14196,977,Regular
+BR-960,Containerization,Logística TransBrasil,26834,22321,26704,4771,92,22321,4513,Regular
+BR-370,Outbound,Global Shippers,23047,20375,22391,3945,-11,20375,2672,Expirado
+BR-206,Outbound,Logística TransBrasil,31105,32003,29277,4282,87,29277,1828,Regular
+BR-171,Inbound,Global Shippers,15230,13327,12465,2179,-10,12465,2765,Expirado
+BR-800,Containerization,Swift Cargo,20707,17669,17301,3542,93,17301,3406,Regular
+BR-120,Outbound,Logística TransBrasil,26976,25157,26913,3750,100,25157,1819,Regular
+BR-714,Inbound,Rodoviária Sul,16494,17264,15395,2147,78,15395,1099,Regular
+BR-221,Inbound,Nexus Transportes,31813,27857,25514,4880,31,25514,6299,Regular
+BR-566,Inbound,Global Shippers,28776,28044,23663,5069,83,23663,5113,Regular
+BR-314,Inbound,Nexus Transportes,6306,6275,5965,1020,39,5965,341,Regular
+BR-430,Outbound,Nexus Transportes,33605,29392,26921,5182,36,26921,6684,Regular
+BR-558,Outbound,Logística TransBrasil,11776,11628,9837,1481,-3,9837,1939,Expirado
+BR-187,Containerization,Nexus Transportes,32251,29173,29694,5060,98,29173,3078,Regular
+BR-472,Inbound,Rodoviária Sul,34644,33446,32988,6215,108,32988,1656,Regular
+BR-199,Inbound,Nexus Transportes,27248,26313,25706,3498,90,25706,1542,Regular
+BR-971,Inbound,Logística TransBrasil,14474,13652,12293,2187,104,12293,2181,Regular
+BR-763,Outbound,Rodoviária Sul,12526,10531,11983,2162,47,10531,1995,Regular
+BR-230,Outbound,Swift Cargo,30285,30652,25808,4980,3,25808,4477,Urgente: Vence em 30d
+BR-761,Inbound,Nexus Transportes,26959,24095,23497,4362,76,23497,3462,Regular
+BR-408,Outbound,Logística TransBrasil,10530,9086,10153,1707,42,9086,1444,Regular
+BR-869,Inbound,Swift Cargo,34320,28464,32360,4858,74,28464,5856,Regular
+BR-443,Containerization,Swift Cargo,25797,24659,25457,3550,101,24659,1138,Regular
+BR-591,Outbound,Global Shippers,8748,8536,8264,1474,46,8264,484,Regular
+BR-513,Inbound,Rodoviária Sul,18545,15277,17154,3126,7,15277,3268,Urgente: Vence em 30d
+BR-905,Containerization,Nexus Transportes,34355,32217,28192,5909,111,28192,6163,Regular
+BR-485,Outbound,Logística TransBrasil,5663,4938,4988,989,113,4938,725,Regular
+BR-291,Inbound,Global Shippers,6998,6776,6006,1054,42,6006,992,Regular
+BR-376,Outbound,Rodoviária Sul,12994,11176,11092,1950,106,11092,1902,Regular
+BR-260,Outbound,Global Shippers,33021,32324,33485,5544,-15,32324,697,Expirado
+BR-559,Containerization,Rodoviária Sul,33319,30285,29536,5297,18,29536,3783,Urgente: Vence em 30d
+BR-413,Containerization,Rodoviária Sul,22879,23690,22793,3709,80,22793,86,Regular
+BR-121,Outbound,Nexus Transportes,8304,7071,7796,1392,110,7071,1233,Regular
+BR-352,Outbound,Rodoviária Sul,25147,22593,24514,4360,102,22593,2554,Regular
+BR-847,Outbound,Global Shippers,26616,22519,24236,3733,32,22519,4097,Regular
+BR-956,Containerization,Rodoviária Sul,23237,23996,21538,3312,73,21538,1699,Regular
+BR-660,Outbound,Nexus Transportes,18808,19217,17084,2363,101,17084,1724,Regular
+BR-574,Inbound,Nexus Transportes,11585,10186,9765,1792,113,9765,1820,Regular
+BR-158,Inbound,Global Shippers,34235,33269,32829,4182,0,32829,1406,Urgente: Vence em 30d
+BR-610,Inbound,Swift Cargo,22675,22855,19540,3354,53,19540,3135,Regular
+BR-781,Inbound,Swift Cargo,24965,23659,20105,3808,6,20105,4860,Urgente: Vence em 30d
+BR-575,Outbound,Rodoviária Sul,16649,15680,15683,2284,77,15680,969,Regular
+BR-799,Inbound,Logística TransBrasil,28938,25338,24277,4498,60,24277,4661,Regular
+BR-882,Inbound,Rodoviária Sul,28664,24118,28861,3492,70,24118,4546,Regular
+BR-289,Inbound,Global Shippers,6636,6810,6701,811,13,6701,-65,Urgente: Vence em 30d
+BR-786,Inbound,Global Shippers,25080,25759,25111,4247,53,25111,-31,Regular
+BR-662,Outbound,Global Shippers,32575,31454,28712,4612,31,28712,3863,Regular
+BR-975,Outbound,Global Shippers,32728,29388,26293,4176,78,26293,6435,Regular
+BR-666,Outbound,Global Shippers,22082,19880,22175,3341,69,19880,2202,Regular
