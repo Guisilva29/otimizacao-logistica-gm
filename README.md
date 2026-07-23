@@ -23,8 +23,7 @@ Este repositório contém o arquivo de desenvolvimento de um painel estratégico
 3. Abra o arquivo para interagir com os visuais e explorar o modelo de dados.
 
 ## 📸 Visualização do Dashboard
-
-
+![Dashboard Logística](dashboard.png)
 
 ---
 Desenvolvido por Guilherme Oliveira Silva 🖥️  
