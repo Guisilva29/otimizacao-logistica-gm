@@ -22,6 +22,10 @@ Este repositório contém o arquivo de desenvolvimento de um painel estratégico
 2. Baixe o arquivo `.pbix` (ou abra a pasta do projeto se estiver usando o formato `.pbip`).
 3. Abra o arquivo para interagir com os visuais e explorar o modelo de dados.
 
+## 📸 Visualização do Dashboard
+![Dashboard Logística](dashboard.png)
+
+
 ---
 Desenvolvido por Guilherme Oliveira Silva 🖥️  
 Sinta-se à vontade para entrar em contato via email: guilhermeoliveira2903@gmail.com ou linkedin: linkedin.com/in/guilhermeoliveiraslv/ 
